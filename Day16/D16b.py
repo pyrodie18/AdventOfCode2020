@@ -75,8 +75,3 @@ for i, values_set in enumerate(possible_fields):
             running_total *= my_ticket[i]
 
 print(running_total)
-
-
-
-# for i, field in enumerate(possible_fields):
-#     print("%s - %s" %(i, field))
